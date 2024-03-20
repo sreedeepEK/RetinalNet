@@ -7,6 +7,8 @@ This project demonstrates a basic implementation of the OpticNet paper for educa
 
 This is a replication of the core functionalities described in the Optic-Net paper, but may not include all the optimizations or complexities of the original research.
 
+![Architecture](architecture.png)
+
 Contributions are welcome!
 
 ## Citations
