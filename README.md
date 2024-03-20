@@ -3,7 +3,7 @@
 This repository contains the implementation of a Retinal OCT analysis system using a pretrained ResNet50 model. The system is based on utilizing transfer learning with ResNet50 for efficient analysis of Retinal Optical Coherence Tomography (OCT) images.
 
 ### Important Notes
-This project demonstrates a basic implementation of the OpticNet paper for educational purposes. It's recommended to train for more epochs (e.g., 50) for potentially better results. In my testing, 5 epochs took approximately 4 hours. Training for longer will require more computational resources and time.
+This project demonstrates a basic implementation of the OpticNet paper for educational purposes. It's recommended to train for more epochs (e.g., 50) for potentially better results. In my testing, 5 epochs took approximately 4 hours. (Trained on NVIDIA GTX 1650 GPU).Training for longer will require more computational resources and time.
 
 This is a replication of the core functionalities described in the Optic-Net paper, but may not include all the optimizations or complexities of the original research.
 
