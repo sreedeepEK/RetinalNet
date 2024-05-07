@@ -1,4 +1,4 @@
-## Retinal OCT Analysis using Pretrained ResNet50
+## RetinalNet: Deep learning paper replication.
 
 This repository contains the implementation of a Retinal OCT analysis system using a pretrained ResNet50 model. The system is based on utilizing transfer learning with ResNet50 for efficient analysis of Retinal Optical Coherence Tomography (OCT) images.
 
